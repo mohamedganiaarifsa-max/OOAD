@@ -1,0 +1,8 @@
+{
+  "name": "Pet take care f",
+  "description": "PetCare – Smart Pet Take Care Management System: multi-role hospital, boarding, veterinary care, feeding, medications, grooming, and INR billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
